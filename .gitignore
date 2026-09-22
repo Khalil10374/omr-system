@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Runtime data and generated files
+omr_system.db
+uploads/
+tmp/
+output_mass_batches/
+omr_print_ready_*.pdf
+omr_calibration_test.pdf
+temp_page_preview.png
+user_uploaded_template.pdf
+output_*.pdf
